@@ -43,13 +43,13 @@ a.anchor span {
 
 body {
   background-attachment: fixed;
-  background-color: #E6E6EC;
-  background-image:-webkit-gradient(linear, 50% 50%, 0, 50% 50%, 100, color-stop(0%, #E6E6EC), color-stop(100%, #B7B6CB));
-  background-image:-webkit-linear-gradient(#E6E6EC, #B7B6CB);
-  background-image:-moz-linear-gradient(#E6E6EC, #B7B6CB);
-  background-image:-o-linear-gradient(#E6E6EC, #B7B6CB);
-  background-image:-ms-linear-gradient(#E6E6EC, #B7B6CB);
-  background-image: linear-gradient(#E6E6EC, #B7B6CB);
+  background-color: #f4f4f7;
+  background-image:-webkit-gradient(linear, 50% 50%, 0, 50% 50%, 100, color-stop(0%, #f4f4f7), color-stop(100%, #e6e6ec));
+  background-image:-webkit-linear-gradient(#f4f4f7, #e6e6ec);
+  background-image:-moz-linear-gradient(#f4f4f7, #e6e6ec);
+  background-image:-o-linear-gradient(#f4f4f7, #e6e6ec);
+  background-image:-ms-linear-gradient(#f4f4f7, #e6e6ec);
+  background-image: linear-gradient(#f4f4f7, #e6e6ec);
   font-family: "helvetica neue", helvetica, arial, geneva, sans-serif !important;
   font-size: 13px !important;
   color:#676482 !important;
